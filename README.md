@@ -15,3 +15,6 @@ This is a project to instrument the family boat with monitors for temperatures i
 |     1| Breadboard |
 
 </details>
+
+## About libraries
+the sketches in this project were built with Arduino IDE 1.8.16 with the include libraries in Dallas and One Wire folders also within this project.
